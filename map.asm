@@ -11,7 +11,7 @@ levelMap: times MAP_W * MAP_H db EMPTY
 
 
 InitMap:
-    mov si, 600
+    mov si, 660
     mov cx, 60
 
 makeGround:
